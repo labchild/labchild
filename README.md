@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, fashion, video games, and web development
 - 🌱 I’m currently enrolled in Columbia's coding bootcamp
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge base! 
-- 📫 You can email at labchilds@gmail.com
+- 📫 You can email me at labchilds@gmail.com
 
 <!---
 labchild/labchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
