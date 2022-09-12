@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labchild
 - 👀 I’m interested in art, fashion, video games, and web development
-- 🌱 I’m currently enrolled in Columbia's coding bootcamp
+- 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge base! 
 - 📫 You can email me at labchilds@gmail.com
 
