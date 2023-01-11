@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labchild
 - 👀 I’m interested in art, fashion, video games, and Havanese puppies
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge base! 
 - 📫 You can email me at labchilds@gmail.com
 
